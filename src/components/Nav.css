@@ -47,13 +47,13 @@
 }
 
 .header-nav .notifications .notification-item h4{
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 600;
     margin-bottom: 5px;
 }
 
 .header-nav .notifications .notification-item p{
-    font-size: 14px;
+    font-size: 12px;
     margin-bottom: 3px;
     color: #919191;
 }

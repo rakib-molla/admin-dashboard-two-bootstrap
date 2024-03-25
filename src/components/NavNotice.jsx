@@ -27,8 +27,8 @@ function NavNotice() {
         <li className='notification-item'>
           <i className='bi bi-exclamation-circle text-warning'></i>
           <div>
-            <h4>Lorem ipsum</h4>
-            <h4>quae dolorem earum veritatis oditseno</h4>
+            <h4>Rakib Molla</h4>
+            <p>quae dolorem earum veritatis oditseno</p>
             <p>30 min. ago</p>
           </div>
         </li>
@@ -40,8 +40,8 @@ function NavNotice() {
         <li className='notification-item'>
           <i className='bi bi-exclamation-circle text-warning'></i>
           <div>
-            <h4>Atque rerum nesciunt</h4>
-            <h4>quae dolorem earum veritatis oditseno</h4>
+            <h4>Rakib Molla</h4>
+            <p>quae dolorem earum veritatis oditseno</p>
             <p>1 hr. ago</p>
           </div>
         </li>
@@ -53,8 +53,8 @@ function NavNotice() {
         <li className='notification-item'>
           <i className='bi bi-exclamation-circle text-warning'></i>
           <div>
-            <h4>sit rerum fuga</h4>
-            <h4>quae dolorem earum veritatis oditseno</h4>
+            <h4>Rakib Molla</h4>
+            <p>quae dolorem earum veritatis oditseno</p>
             <p>2 hr. ago</p>
           </div>
         </li>
@@ -66,8 +66,8 @@ function NavNotice() {
         <li className='notification-item'>
           <i className='bi bi-exclamation-circle text-warning'></i>
           <div>
-            <h4>sit rerum fuga</h4>
-            <h4>quae dolorem earum veritatis oditseno</h4>
+            <h4>Rakib Molla</h4>
+            <p>quae dolorem earum veritatis oditseno</p>
             <p>3 hr. ago</p>
           </div>
         </li>
@@ -75,7 +75,11 @@ function NavNotice() {
           <hr className='dropdown-divider' />
         </li>
         <li>
-          <a href='' className="text-center">Show all notifications</a>
+          <a
+            href=''
+            className='d-flex align-items-center justify-content-center'>
+            Show all notifications
+          </a>
         </li>
       </ul>
     </li>
